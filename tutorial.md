@@ -8,7 +8,7 @@ In more general terms, git is a way to keep track of changes in files. A git rep
  
 Git allows for a variety of other ways of dealing with changing data in folders, like cloning repositories (think copying folders) and creating new versions of repositories called forks.
 
-However, Git by itself allows this only on one machine. It's useful, but its real power is in allowing for distributed contributions to a single repository. One way to enable this is GitHub.
+However, Git by itself allows this only on one machine. It's useful, but its real power is in allowing for distributed contributions to a single repository. One way to enable this is GitHub. Derp.
 
 # What is GitHub?
 
